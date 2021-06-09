@@ -1,7 +1,7 @@
 {
     "files": {
         "README.md": "0efe95078f9317e78278abb987708b852b017c75cca790f96bba8221f9ac7ec6",
-        "index.js": "4b6d70d7061eff8c96c122499b87ce694aae509ace9eaed459525d345c2d2062",
+        "index.js": "da271d17ce664017d559228260c7076b476276098e4223aa1d62fa9b89d5fd1b",
         "module.json": "44223534515050515a77cf76fc408183ed1ea8684b8cb69a7fa7f970426ad9b2",
         "node_modules/pify/index.js": "e77abeca1a83a97d2f03a88ded75d2e52ebd1d7a4ec9f2ac9ea816417d5effc8",
         "node_modules/pify/license": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",

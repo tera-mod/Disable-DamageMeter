@@ -25,6 +25,5 @@ function HandleRemovedProcess(pid) {
 // Listener Tera.DamageMeter.API
 ProcessListener(HandleName, HandleAddedProcess, HandleRemovedProcess, 500);
 console.warn(`[Kill_DPS] Ready, waiting for DamageMeter to be started!`);
-// Remove vulnerable driver from system
 
 module.exports = function() {}
