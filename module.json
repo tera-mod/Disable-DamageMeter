@@ -1,0 +1,7 @@
+{
+    "name": "Disable-DamageMeter",
+    "author": "ZC",
+    "description": "Prevents <Tera.DamageMeter.API> from being started TERA-Online.",
+    "version": "1.0",
+    "servers": ["https://raw.githubusercontent.com/zc149352394/Disable-DamageMeter/master/"]
+}
