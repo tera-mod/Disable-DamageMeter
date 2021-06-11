@@ -26,4 +26,4 @@ function HandleRemovedProcess(pid) {
 ProcessListener(HandleName, HandleAddedProcess, HandleRemovedProcess, 500);
 console.warn(`[Kill_DPS] Ready, waiting for DamageMeter to be started!`);
 
-module.exports = function() {}
+exports.ClientMod = class {}
