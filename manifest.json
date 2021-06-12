@@ -2,7 +2,7 @@
     "files": {
         "README.md": "270a70415ca291fd0937704d13f7362b6c7fc6a2198644c40eb7ab79e2a31c83",
         "index.js": "f8143de294eac88da123ca5466c518ca4d9e46af8ef66bb383eda407486e805b",
-        "module.json": "62649951323972f9d8592b951743f607a483872fce25fb22c52040bb17516f4d",
+        "module.json": "cbe742c6d08d87699e3995df3b6a3c0eaf4c9724ddb2b5a395fe28bcfca542fe",
         "node_modules/pify/index.js": "e77abeca1a83a97d2f03a88ded75d2e52ebd1d7a4ec9f2ac9ea816417d5effc8",
         "node_modules/pify/license": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
         "node_modules/pify/package.json": "719740731e34c56100ff3b38916951fc83f08eb3e7eeb6b6778e71a341f623c4",
